@@ -1,0 +1,12 @@
+C:\Users\tanos\source\repos\MyCalcLb\bin\Debug\net6.0\MyCalcLb.deps.json
+C:\Users\tanos\source\repos\MyCalcLb\bin\Debug\net6.0\MyCalcLb.dll
+C:\Users\tanos\source\repos\MyCalcLb\bin\Debug\net6.0\MyCalcLb.pdb
+C:\Users\tanos\source\repos\MyCalcLb\obj\Debug\net6.0\MyCalcLb.csproj.AssemblyReference.cache
+C:\Users\tanos\source\repos\MyCalcLb\obj\Debug\net6.0\MyCalcLb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanos\source\repos\MyCalcLb\obj\Debug\net6.0\MyCalcLb.AssemblyInfoInputs.cache
+C:\Users\tanos\source\repos\MyCalcLb\obj\Debug\net6.0\MyCalcLb.AssemblyInfo.cs
+C:\Users\tanos\source\repos\MyCalcLb\obj\Debug\net6.0\MyCalcLb.csproj.CoreCompileInputs.cache
+C:\Users\tanos\source\repos\MyCalcLb\obj\Debug\net6.0\MyCalcLb.dll
+C:\Users\tanos\source\repos\MyCalcLb\obj\Debug\net6.0\refint\MyCalcLb.dll
+C:\Users\tanos\source\repos\MyCalcLb\obj\Debug\net6.0\MyCalcLb.pdb
+C:\Users\tanos\source\repos\MyCalcLb\obj\Debug\net6.0\ref\MyCalcLb.dll
